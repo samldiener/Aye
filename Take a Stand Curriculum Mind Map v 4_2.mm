@@ -113,7 +113,7 @@
 <font SIZE="24"/>
 <hook NAME="AutomaticEdgeColor" COUNTER="0" RULE="FOR_COLUMNS"/>
 <node TEXT="Module 1 Building Healthy Relationships" POSITION="right" ID="ID_1701509953" CREATED="1481016956369" MODIFIED="1481052851999" HGAP_QUANTITY="28.24999957531692 pt" VSHIFT_QUANTITY="-20.999999374151248 pt">
-<node TEXT="Key Objectives" FOLDED="true" ID="ID_849455582" CREATED="1481017043963" MODIFIED="1484253190496" HGAP_QUANTITY="15.499999955296518 pt" VSHIFT_QUANTITY="-23.249999307096026 pt">
+<node TEXT="Key Objectives" ID="ID_849455582" CREATED="1481017043963" MODIFIED="1484253190496" HGAP_QUANTITY="15.499999955296518 pt" VSHIFT_QUANTITY="-23.249999307096026 pt">
 <node TEXT="Begin to articulate some characteristics of healthy cultures and healthy relationships." ID="ID_1827402728" CREATED="1481017063591" MODIFIED="1481487534447" VGAP_QUANTITY="3.7499998882412946 pt" HGAP_QUANTITY="21.49999977648259 pt" VSHIFT_QUANTITY="-9.749999709427366 pt">
 <node TEXT="If you were looking for a good friend, how would that friend act, how would you describe how you would want the two of you to interact? Exercise." ID="ID_446190745" CREATED="1481168495299" MODIFIED="1481168647131">
 <node ID="ID_1601769981" CREATED="1484254218998" MODIFIED="1484254250824" LINK="https://playingforchange.com/videos/stand-by-me-song-around-the-world/."><richcontent TYPE="NODE">
@@ -137,7 +137,9 @@
 <node TEXT="What kind of cultures do we need to help create in order to generate more healthy relationships?" ID="ID_1157744366" CREATED="1481479833736" MODIFIED="1481479925713"/>
 </node>
 <node TEXT="Begin to explain some of the consequences of abusive relationships in our society." ID="ID_777734466" CREATED="1481017189218" MODIFIED="1484062436210" HGAP_QUANTITY="16.999999910593036 pt" VSHIFT_QUANTITY="-11.999999642372142 pt">
-<node TEXT="At best, friendships nourish our lives. But sometimes.... Brainstorm some problems that you&apos;ve had, or you&apos;ve seen other people have, making, keeping, or deepening friendships." ID="ID_1560069526" CREATED="1481485560495" MODIFIED="1481486825925" HGAP_QUANTITY="18.499999865889556 pt" VSHIFT_QUANTITY="5.999999821186071 pt"/>
+<node TEXT="At best, friendships nourish our lives. But sometimes.... Brainstorm some problems that you&apos;ve had, or you&apos;ve seen other people have, making, keeping, or deepening friendships." ID="ID_1560069526" CREATED="1481485560495" MODIFIED="1481486825925" HGAP_QUANTITY="18.499999865889556 pt" VSHIFT_QUANTITY="5.999999821186071 pt">
+<node TEXT="What makes for a good friend?" ID="ID_1032822825" CREATED="1485569150806" MODIFIED="1485569164738"/>
+</node>
 <node TEXT="What is Love?" ID="ID_1979333873" CREATED="1484062403724" MODIFIED="1484062777922">
 <node TEXT="Song - Where is the Love? Black Eyed Peas" FOLDED="true" ID="ID_20120633" CREATED="1481484626902" MODIFIED="1484062436206" HGAP_QUANTITY="67.99999839067465 pt" VSHIFT_QUANTITY="-5.999999821186071 pt">
 <node TEXT="Video of Where is the Love?" ID="ID_115651470" CREATED="1481484654910" MODIFIED="1481484835796" LINK="http://bit.ly/WhereIsTheLoveBEP_Video"/>
