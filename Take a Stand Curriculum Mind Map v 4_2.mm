@@ -112,10 +112,11 @@
 <hook NAME="accessories/plugins/AutomaticLayout.properties" VALUE="ALL"/>
 <font SIZE="24"/>
 <hook NAME="AutomaticEdgeColor" COUNTER="0" RULE="FOR_COLUMNS"/>
-<node TEXT="Module 1 Building Healthy Relationships" POSITION="right" ID="ID_1701509953" CREATED="1481016956369" MODIFIED="1481052851999" HGAP_QUANTITY="28.24999957531692 pt" VSHIFT_QUANTITY="-20.999999374151248 pt">
+<node TEXT="Module 1: Building Healthy Relationships" POSITION="right" ID="ID_1701509953" CREATED="1481016956369" MODIFIED="1486537793076" HGAP_QUANTITY="28.24999957531692 pt" VSHIFT_QUANTITY="-20.999999374151248 pt">
 <node TEXT="Key Objectives" ID="ID_849455582" CREATED="1481017043963" MODIFIED="1484253190496" HGAP_QUANTITY="15.499999955296518 pt" VSHIFT_QUANTITY="-23.249999307096026 pt">
 <node TEXT="Begin to articulate some characteristics of healthy cultures and healthy relationships." ID="ID_1827402728" CREATED="1481017063591" MODIFIED="1481487534447" VGAP_QUANTITY="3.7499998882412946 pt" HGAP_QUANTITY="21.49999977648259 pt" VSHIFT_QUANTITY="-9.749999709427366 pt">
 <node TEXT="If you were looking for a good friend, how would that friend act, how would you describe how you would want the two of you to interact? Exercise." ID="ID_446190745" CREATED="1481168495299" MODIFIED="1481168647131">
+<node TEXT="What makes for a good friend?" ID="ID_1032822825" CREATED="1485569150806" MODIFIED="1485986837659" LINK="https://www.dropbox.com/s/lkuk2nsvmsn0jmy/FriendshipChallengesQualities_pdf.pdf?dl=0"/>
 <node ID="ID_1601769981" CREATED="1484254218998" MODIFIED="1484254250824" LINK="https://playingforchange.com/videos/stand-by-me-song-around-the-world/."><richcontent TYPE="NODE">
 
 <html>
@@ -134,16 +135,16 @@
 <node TEXT="How does the way this video was made reinforce the message of the song?" ID="ID_973197241" CREATED="1484254256209" MODIFIED="1484254333748"/>
 </node>
 </node>
-<node TEXT="What kind of cultures do we need to help create in order to generate more healthy relationships?" ID="ID_1157744366" CREATED="1481479833736" MODIFIED="1481479925713"/>
 </node>
 <node TEXT="Begin to explain some of the consequences of abusive relationships in our society." ID="ID_777734466" CREATED="1481017189218" MODIFIED="1484062436210" HGAP_QUANTITY="16.999999910593036 pt" VSHIFT_QUANTITY="-11.999999642372142 pt">
-<node TEXT="At best, friendships nourish our lives. But sometimes.... Brainstorm some problems that you&apos;ve had, or you&apos;ve seen other people have, making, keeping, or deepening friendships." ID="ID_1560069526" CREATED="1481485560495" MODIFIED="1481486825925" HGAP_QUANTITY="18.499999865889556 pt" VSHIFT_QUANTITY="5.999999821186071 pt">
-<node TEXT="What makes for a good friend?" ID="ID_1032822825" CREATED="1485569150806" MODIFIED="1485569164738"/>
-</node>
+<node TEXT="At best, friendships nourish our lives. But sometimes.... Brainstorm some problems that you&apos;ve had, or you&apos;ve seen other people have, making, keeping, or deepening friendships." ID="ID_1560069526" CREATED="1481485560495" MODIFIED="1481486825925" HGAP_QUANTITY="18.499999865889556 pt" VSHIFT_QUANTITY="5.999999821186071 pt"/>
 <node TEXT="What is Love?" ID="ID_1979333873" CREATED="1484062403724" MODIFIED="1484062777922">
-<node TEXT="Song - Where is the Love? Black Eyed Peas" FOLDED="true" ID="ID_20120633" CREATED="1481484626902" MODIFIED="1484062436206" HGAP_QUANTITY="67.99999839067465 pt" VSHIFT_QUANTITY="-5.999999821186071 pt">
+<node TEXT="Song - Where is the Love? Black Eyed Peas" ID="ID_20120633" CREATED="1481484626902" MODIFIED="1484062436206" HGAP_QUANTITY="67.99999839067465 pt" VSHIFT_QUANTITY="-5.999999821186071 pt">
 <node TEXT="Video of Where is the Love?" ID="ID_115651470" CREATED="1481484654910" MODIFIED="1481484835796" LINK="http://bit.ly/WhereIsTheLoveBEP_Video"/>
 <node TEXT="Where is the Love lyric sheet" ID="ID_1023539108" CREATED="1481484841932" MODIFIED="1481485482285" LINK="https://www.dropbox.com/s/5owjwbs3iny6flm/WhereIsTheLoveDondeEstaLaAmorSpanishLargePDF.pdf?dl=0"/>
+<node TEXT="What kind of cultures do we need to help create in order to generate more healthy relationships? I wouldn&apos;t actually ask them to focus on this question now, but I would tell them that at the end of this whole project, this is a question we will discuss, so it&apos;s a question to keep in mind." ID="ID_1157744366" CREATED="1481479833736" MODIFIED="1485987440357">
+<arrowlink SHAPE="CUBIC_CURVE" COLOR="#000000" WIDTH="2" TRANSPARENCY="200" FONT_SIZE="9" FONT_FAMILY="SansSerif" DESTINATION="ID_1157744366" STARTINCLINATION="40;0;" ENDINCLINATION="40;45;" STARTARROW="NONE" ENDARROW="DEFAULT"/>
+</node>
 </node>
 <node TEXT="Ask students to come up with their own metaphors, definitions, and questions here, if time" ID="ID_1600933778" CREATED="1484062669845" MODIFIED="1484062732785" HGAP_QUANTITY="75.49999816715723 pt" VSHIFT_QUANTITY="-2.9999999105930355 pt"/>
 <node TEXT="A Better Way to Talk About Love - TED Talk" ID="ID_63255653" CREATED="1484062452513" MODIFIED="1484062650200" LINK="https://www.ted.com/talks/mandy_len_catron_a_better_way_to_talk_about_love" HGAP_QUANTITY="75.49999816715723 pt" VSHIFT_QUANTITY="8.999999731779106 pt"/>
@@ -153,6 +154,10 @@
 <node TEXT="agape" ID="ID_622147012" CREATED="1484062801782" MODIFIED="1484062803970"/>
 <node TEXT="Audio of Loving Your Enemies, 1957, via YouTube" ID="ID_1357657883" CREATED="1484062913280" MODIFIED="1484063057801" LINK="https://www.youtube.com/watch?v=522wcqUlS0Y"/>
 <node TEXT="Text of Loving Your Enemies (with audio too)" ID="ID_1978732522" CREATED="1484062937583" MODIFIED="1484063041851" LINK="http://kingencyclopedia.stanford.edu/encyclopedia/documentsentry/doc_loving_your_enemies/"/>
+</node>
+<node TEXT="Poems Trying to Define Love" ID="ID_1066265768" CREATED="1485987051836" MODIFIED="1485987064800">
+<node TEXT="Downloaded Poems" ID="ID_758835953" CREATED="1485987648031" MODIFIED="1485987700784" LINK="https://www.dropbox.com/sh/2d7el47s29p0mp4/AADxaZ6YctmE7ZalwOzK1Je3a?dl=0"/>
+<node TEXT="Scanned Poems" ID="ID_632078031" CREATED="1485987661511" MODIFIED="1485987666510"/>
 </node>
 </node>
 </node>
@@ -238,9 +243,8 @@
 </node>
 </node>
 </node>
-<node TEXT="Module 2 Understanding Power and Propaganda: Analyzing Teen Dating Violence in Our Culture" POSITION="right" ID="ID_432553541" CREATED="1481016962917" MODIFIED="1484241920772" HGAP_QUANTITY="28.249999575316913 pt" VSHIFT_QUANTITY="-24.749999262392542 pt">
-<node TEXT="Key Objectives. SWBAT:" FOLDED="true" ID="ID_802404163" CREATED="1481017350522" MODIFIED="1481056818847">
-<arrowlink SHAPE="CUBIC_CURVE" COLOR="#000000" WIDTH="2" TRANSPARENCY="200" FONT_SIZE="9" FONT_FAMILY="SansSerif" DESTINATION="ID_1961554978" MIDDLE_LABEL="Key Skill" STARTINCLINATION="33;-9;" ENDINCLINATION="-290;38;" STARTARROW="NONE" ENDARROW="DEFAULT"/>
+<node TEXT="Module 2: Understanding Power and Propaganda: Analyzing Teen Dating Violence in Our Culture" POSITION="right" ID="ID_432553541" CREATED="1481016962917" MODIFIED="1486537797699" HGAP_QUANTITY="28.249999575316913 pt" VSHIFT_QUANTITY="-24.749999262392542 pt">
+<node TEXT="Key Objectives. SWBAT:" ID="ID_802404163" CREATED="1481017350522" MODIFIED="1486536777138">
 <node TEXT="Explore their own histories of experiencing toxic power and healthy power" ID="ID_1350842351" CREATED="1481017365552" MODIFIED="1481017399619">
 <node TEXT="Experiences of Violence" ID="ID_912035210" CREATED="1483645880135" MODIFIED="1483645893802"/>
 <node TEXT="Experiences of Trauma" ID="ID_521710773" CREATED="1483645895701" MODIFIED="1483645900198"/>
@@ -318,17 +322,7 @@
 <node TEXT="Caught in the Crowd Song with Lyrics on Screen" ID="ID_1678085968" CREATED="1481057541713" MODIFIED="1481057582622" LINK="https://www.youtube.com/watch?v=LmoTxvIRZzQ">
 <node TEXT="Once I..." ID="ID_1152322342" CREATED="1481057629347" MODIFIED="1481057845663" LINK="https://www.dropbox.com/s/m8x9w6odsb46zjs/OnceIpickedOnAlliedv2_1pdf.pdf?dl=0"/>
 <node TEXT="Healthy Power and Toxic Power" ID="ID_815065253" CREATED="1481057646267" MODIFIED="1481057772370" LINK="https://www.dropbox.com/s/q7l1cxyxjdg3vpl/IfeelPowerfulWhenToxicHealthy1_4EnglishSpanishPDF.pdf?dl=0"/>
-</node>
-</node>
-</node>
-</node>
-<node TEXT="Module 3: Recognizing Bullying, Harassment, and Abuse, How to Get Help, How to Help Friends" POSITION="right" ID="ID_1868006193" CREATED="1481016968002" MODIFIED="1484258962878" HGAP_QUANTITY="25.999999642372142 pt" VSHIFT_QUANTITY="-47.24999859184031 pt">
-<node TEXT="Key learning objectives, SWBAT:" FOLDED="true" ID="ID_199651827" CREATED="1481043915579" MODIFIED="1485201256273">
-<node TEXT="How to Recognize Spectrum of Unhealthy and Abusive Behavior (see Key Concepts for module 3 below)" ID="ID_890357989" CREATED="1484247259038" MODIFIED="1484247917081"/>
-<node TEXT="Know how to get help (see Key Concepts for module 3 below) if they believe they&apos;re being abused or if someone they know is being abused" ID="ID_529257290" CREATED="1484247208467" MODIFIED="1484252124409" HGAP_QUANTITY="14.749999977648258 pt" VSHIFT_QUANTITY="14.249999575316918 pt"/>
-<node TEXT="How to be supportive friend" ID="ID_179132930" CREATED="1481488348880" MODIFIED="1485201256267">
-<node TEXT="What does a good friend do when a friend is in danger?" ID="ID_358460936" CREATED="1481488365217" MODIFIED="1484252542140" HGAP_QUANTITY="14.749999977648258 pt" VSHIFT_QUANTITY="-10.499999687075624 pt">
-<node TEXT="If you think/fear friend is being harassed and/or bullied?" ID="ID_1425283729" CREATED="1481488520331" MODIFIED="1484252445310">
+<node TEXT="Allying against bullying and harassment" ID="ID_1425283729" CREATED="1481488520331" MODIFIED="1486537209915">
 <node TEXT="Gortags and Gelflings" ID="ID_305660987" CREATED="1481488893701" MODIFIED="1481488943158"/>
 <node TEXT="To understand bullying abuse, MAPIT" ID="ID_1860432206" CREATED="1481488773436" MODIFIED="1481517195510">
 <node TEXT="MAPIT Handout" ID="ID_1932447143" CREATED="1481488860130" MODIFIED="1481502093307" LINK="https://www.dropbox.com/s/t6watwkdukniqxf/MAPITv2_4wideformat_pdf.pdf?dl=0"/>
@@ -340,6 +334,16 @@
 <node TEXT="Class solidarity with students in video - photo of willing students on one leg." ID="ID_355205045" CREATED="1484367537352" MODIFIED="1484367568546"/>
 </node>
 </node>
+</node>
+</node>
+</node>
+</node>
+<node TEXT="Module 3: Recognizing Abuse, How to Get Help, How to Help Friends" POSITION="right" ID="ID_1868006193" CREATED="1481016968002" MODIFIED="1486536958797" HGAP_QUANTITY="25.999999642372142 pt" VSHIFT_QUANTITY="-47.24999859184031 pt">
+<node TEXT="Key learning objectives, SWBAT:" ID="ID_199651827" CREATED="1481043915579" MODIFIED="1485201256273">
+<node TEXT="How to Recognize Spectrum of Unhealthy and Abusive Behavior (see Key Concepts for module 3 below)" ID="ID_890357989" CREATED="1484247259038" MODIFIED="1484247917081"/>
+<node TEXT="Know how to get help (see Key Concepts for module 3 below) if they believe they&apos;re being abused or if someone they know is being abused" ID="ID_529257290" CREATED="1484247208467" MODIFIED="1484252124409" HGAP_QUANTITY="14.749999977648258 pt" VSHIFT_QUANTITY="14.249999575316918 pt"/>
+<node TEXT="How to be supportive friend" ID="ID_179132930" CREATED="1481488348880" MODIFIED="1485201256267">
+<node TEXT="What does a good friend do when a friend is in danger?" ID="ID_358460936" CREATED="1481488365217" MODIFIED="1484252542140" HGAP_QUANTITY="14.749999977648258 pt" VSHIFT_QUANTITY="-10.499999687075624 pt">
 <node TEXT="If you think/fear friend is being abused?" ID="ID_1117700589" CREATED="1481488397235" MODIFIED="1484252542140" HGAP_QUANTITY="18.499999865889553 pt" VSHIFT_QUANTITY="31.499999061226873 pt">
 <node TEXT="Hotline Exercise" ID="ID_1591427342" CREATED="1481501921548" MODIFIED="1481501965197" LINK="https://www.dropbox.com/s/9tmr43hicknjn3z/RespectHotlineExerciseFromKidsHealthIntheClassroom.pdf?dl=0"/>
 <node ID="ID_1316195589" CREATED="1484254973313" MODIFIED="1484255370644" LINK="http://www.youtube.com/watch?v=TLNVkHxqAHU&amp;amp;feature=youtube_gdata_player."><richcontent TYPE="NODE">
@@ -456,8 +460,8 @@
 </node>
 </node>
 </node>
-<node TEXT="Module 4 Allying for Healthy, Safe Friendships and/or Sexual Relationships" POSITION="right" ID="ID_1968506126" CREATED="1481016976957" MODIFIED="1484258733393" HGAP_QUANTITY="31.249999485909953 pt" VSHIFT_QUANTITY="-7.105427357601002E-15 pt">
-<node TEXT="Key learning objectives, SWBAT:" FOLDED="true" ID="ID_1377510042" CREATED="1481050168969" MODIFIED="1481050168969">
+<node TEXT="Module 4: Allying for Healthy, Safe Friendships and/or Romantic/Sexual Relationships" POSITION="right" ID="ID_1968506126" CREATED="1481016976957" MODIFIED="1486537801902" HGAP_QUANTITY="31.249999485909953 pt" VSHIFT_QUANTITY="-7.105427357601002E-15 pt">
+<node TEXT="Key learning objectives, SWBAT:" ID="ID_1377510042" CREATED="1481050168969" MODIFIED="1481050168969">
 <node TEXT="Get help from trusted adults to nonviolently confront a friend who might be acting abusively. This builds on activities in Module 3." FOLDED="true" ID="ID_718147769" CREATED="1484259298324" MODIFIED="1484259303773">
 <node TEXT="role plays" ID="ID_1124192369" CREATED="1481517860476" MODIFIED="1481519288607"/>
 </node>
@@ -475,8 +479,7 @@
 <node TEXT="Role plays - rewind style" ID="ID_1400199034" CREATED="1481517469726" MODIFIED="1481517498505"/>
 </node>
 </node>
-<node TEXT="Practice assertiveness and conflict resolution skills: win-win problem-solving." ID="ID_1850219988" CREATED="1481050168969" MODIFIED="1481050243521">
-<arrowlink SHAPE="CUBIC_CURVE" COLOR="#000000" WIDTH="2" TRANSPARENCY="200" FONT_SIZE="9" FONT_FAMILY="SansSerif" DESTINATION="ID_1377510042" MIDDLE_LABEL="Key Skill" STARTINCLINATION="-144;14;" ENDINCLINATION="-4;-8;" STARTARROW="DEFAULT" ENDARROW="NONE"/>
+<node TEXT="Practice assertiveness and conflict resolution skills: win-win problem-solving." ID="ID_1850219988" CREATED="1481050168969" MODIFIED="1485984429035">
 <node TEXT="WinWin problem solving in healthy friendships and relationships" ID="ID_119131547" CREATED="1481519673477" MODIFIED="1481519716775">
 <node TEXT="role plays" ID="ID_1424736015" CREATED="1481519719585" MODIFIED="1481519726293"/>
 </node>
@@ -543,7 +546,7 @@
 </node>
 </node>
 </node>
-<node TEXT="Module 5 Using Social Media Constructively: Stopping Digital Dating Abuse" POSITION="right" ID="ID_1862363912" CREATED="1481016972029" MODIFIED="1484248222883" HGAP_QUANTITY="32.74999944120647 pt" VSHIFT_QUANTITY="39.74999881535772 pt">
+<node TEXT="Module 5: Communicating Safely Online. Using Social Media Constructively" POSITION="right" ID="ID_1862363912" CREATED="1481016972029" MODIFIED="1486537808723" HGAP_QUANTITY="32.74999944120647 pt" VSHIFT_QUANTITY="39.74999881535772 pt">
 <node TEXT="Key learning objectives, SWBAT:" ID="ID_517649480" CREATED="1481044463058" MODIFIED="1481049363916">
 <node TEXT="Identify forms of online abuse, including breaking up online in cruel ways, sexting, textual harassment, cyberstalking, controlling via text, online bullying and intimidation, threats, etc." ID="ID_1306162211" CREATED="1481044463058" MODIFIED="1481512820194">
 <node TEXT="Healthy Breaking up Activity from Boston Health Commission" ID="ID_1532101486" CREATED="1481512822709" MODIFIED="1481512870779"/>
@@ -574,10 +577,12 @@
 <node TEXT="What kinds of media might Aye learn to create in order to promote healthier friendships and relationships?" ID="ID_34913898" CREATED="1484064084417" MODIFIED="1484242450706" HGAP_QUANTITY="16.249999932944775 pt" VSHIFT_QUANTITY="-3.7499998882412946 pt"/>
 </node>
 </node>
-<node TEXT="Module 6 Taking a Stand" FOLDED="true" POSITION="right" ID="ID_923325412" CREATED="1481017005082" MODIFIED="1481050682375" HGAP_QUANTITY="28.24999957531692 pt" VSHIFT_QUANTITY="48.749998547136826 pt">
+<node TEXT="Module 6: Taking a Stand" POSITION="right" ID="ID_923325412" CREATED="1481017005082" MODIFIED="1486537817446" HGAP_QUANTITY="28.24999957531692 pt" VSHIFT_QUANTITY="48.749998547136826 pt">
 <node TEXT="Key learning objectives, SWBAT:" ID="ID_818835917" CREATED="1481050694558" MODIFIED="1481050755347">
 <arrowlink SHAPE="CUBIC_CURVE" COLOR="#000000" WIDTH="2" TRANSPARENCY="200" FONT_SIZE="9" FONT_FAMILY="SansSerif" DESTINATION="ID_627692625" MIDDLE_LABEL="Key Skill" STARTINCLINATION="-82;126;" ENDINCLINATION="-18;0;" STARTARROW="NONE" ENDARROW="DEFAULT"/>
-<node TEXT="Identify how nonviolent social change movements have changed societies and cultures in the past" ID="ID_1283377262" CREATED="1481050694558" MODIFIED="1481050694558"/>
+<node TEXT="Identify how nonviolent social change movements have changed societies and cultures in the past" ID="ID_1283377262" CREATED="1481050694558" MODIFIED="1481050694558">
+<node TEXT="What kind of cultures do we need to help create in order to generate more healthy relationships? (the ? we asked in Module 1, and said we&apos;d get back to later)" ID="ID_1214647215" CREATED="1485987481055" MODIFIED="1485987502036"/>
+</node>
 <node TEXT="Learn allying and collaborating skills necessary to work together on a project to advocate for creating cultures that would foster and encourage healthy relationship." ID="ID_838631567" CREATED="1481050694558" MODIFIED="1481050694558">
 <node TEXT="Possible Activities" ID="ID_1670114553" CREATED="1481139893298" MODIFIED="1481156210637" VGAP_QUANTITY="4.499999865889553 pt">
 <node TEXT="Create a Poster" ID="ID_1504797233" CREATED="1481141343081" MODIFIED="1481141384152">
